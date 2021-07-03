@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "185191029522",
+    "project_id": "uas-haidarva",
+    "storage_bucket": "uas-haidarva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185191029522:android:ac65a2adcfad7c63a531cb",
+        "android_client_info": {
+          "package_name": "uas.haidarveraazzahra.registerlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185191029522-a5bfvn3c3o7rbo8t5m5gvopffiu2c2lo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu1e_PZIMLhMvsBjQhVc7w6YVQfFwjO7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185191029522-a5bfvn3c3o7rbo8t5m5gvopffiu2c2lo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
